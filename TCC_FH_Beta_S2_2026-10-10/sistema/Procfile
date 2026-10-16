@@ -1,1 +1,1 @@
-web: gunicorn sistema.wsgi:application
+web: gunicorn --chdir sistema sistema.wsgi:application
