@@ -1,5 +1,0 @@
-Oi, Fernanda! Segue o pacote completo do que temos do TCC até agora: sistema beta S2, matriz, metodologia, planejamento, referências e manual em PDF com prints.
-
-Extraia o ZIP inteiro e abra LEIA_PRIMEIRO.txt. Há um instalador para Windows e para Linux/macOS. Você escolhe sua própria senha na instalação; a Escola Alpha fictícia já será carregada.
-
-O cadastro, questionário, resultados, recomendações e rastreabilidade estão funcionando. O manual PDF atualizado tem 16 páginas e prints dos quatro perfis. Os quatro dashboards gráficos estão disponíveis e funcionam sem internet. Para a revisão, comece pela matriz e pela metodologia em documentacao/03_MODELO_AVALIACAO/. Precisamos da revisão até 15/10 para preparar a entrega de 17/10.
